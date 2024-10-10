@@ -1,1 +1,1 @@
-DEFCONFIG=gold_defconfig
+DEFCONFIG="gold_defconfig"
