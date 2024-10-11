@@ -5,7 +5,7 @@ LLVM=1
 LLVM_IAS=1
 DEFCONFIG=gold_defconfig
 KERNEL_DIR=common
-CLANG_PREBUILT_BIN=../prebuilts/clang/host/linux-x86/clang-536225/bin
+CLANG_PREBUILT_BIN=prebuilts-master/clang/host/linux-x86/clang-r536225/bin
 # BUILDTOOLS_PREBUILT_BIN=build/build-tools/path/linux-x86
 # for check scripts
 # CC=clang
